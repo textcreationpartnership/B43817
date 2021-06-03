@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of Wiltshire presented at Oxford to His Majestie with their contributions.  Also the resolution of Herefordshire, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43817</idno><idno type="EEBO-CITATION">690986718</idno>
+  <idno type="VID">211669</idno>
+  <idno type="EEBO-PROQUEST">2248529867</idno>
+  
+            <idno type="OCLC"> 690986718</idno>
+            <idno type="OCLC">ocn 690986718</idno>
+            <idno type="STC">Wing R1160A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211669)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2983:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of Wiltshire presented at Oxford to His Majestie with their contributions.  Also the resolution of Herefordshire, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>printed anno Dom., 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Printer's device on t.p., headpieces, initials.</note>
+                  <note>Reproduction of original in: Corpus Christi College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Wiltshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Herefordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211669:1"/>
+            <pb facs="tcp:211669:2"/>
+            <p>THE RESOLVTION OF WILTSHIRE: Presented at <hi>Oxford</hi> to His MA<g ref="char:EOLhyphen"/>jESTIE with their Contributions.</p>
+            <p>
+               <hi>ALSO</hi> The Resolution of <hi>Herefordshire, &amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:211669:3"/>
+            <head>WILTSHIRE<hi>'s</hi> Resolution, presented with the Contributions of divers Gentle<g ref="char:EOLhyphen"/>men to His MAjESTIE at OXFORD.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as we whose names are hereto subscribed, having taken the late Protestation recommended unto this Kingdome in generall, according to the direction of both Houses of Parliament, with His Majesties consent, whereby wee hold our selves most especially bound and engaged to defend, and maintaine with our lives and fortunes according to our utmost abilities, the Protestant Re<g ref="char:EOLhyphen"/>ligion established by authority of divers past Parliaments since the Reformation, and also His Majesties Royall Person, and Pre<g ref="char:EOLhyphen"/>rogative, the just and ancient Priviledges of Parliaments, the Lawes of this Land, and the Liberty of the Subject. And whereas it is evident unto us, that at this present by the mali<g ref="char:EOLhyphen"/>tious practises of some dangerous spirits, the Protestant Reli<g ref="char:EOLhyphen"/>gion hath received manifest detriment by calumniating, dis<g ref="char:EOLhyphen"/>countenancing, and imprisoning divers painfull, reverend, and orthodoxe Divines, as namely <hi>D<seg rend="sup">r</seg> Featley, D<seg rend="sup">r</seg> Oldsworth, M<seg rend="sup">r</seg> Shute</hi> of London, and many other men of approved sound<g ref="char:EOLhyphen"/>nesse in Doctrine, and unspotted integrity in their lives and conversations, and almost in all places obtruding ana<g ref="char:EOLhyphen"/>baptisticall, Brownisticall, and Schismaticall Teachers of falshood, and rebellion, to the dishonour of God, and scandall of the Pulpit, abused nowadayes to seduce us from the Loyalty and piety which made our Fore-fathers, and our selves for<g ref="char:EOLhyphen"/>merly happy, and to engage us in a Civill warre one against
+<pb n="3" facs="tcp:211669:3"/>another. The much, and much worthy to be reverenced Li<g ref="char:EOLhyphen"/>turgie, and Common Prayer of our Church growne infamous, and a reproach to those that use it, and all possible endeavour used utterly to expunge it.</p>
+            <p>And having beene bold with God in his worship, no wonder if they proceed to the injury of his Vicegerent, our most Graci<g ref="char:EOLhyphen"/>ous Soveraigne, who opposing as much as in him lay, those, and other unjust and illegall proceedings, was by their subtletie ren<g ref="char:EOLhyphen"/>dred suspected to His Subjects of inclining to Popery, and many other matters equally false; that under such hatefull jealousies, He might by degrees become lesse beloved of His Subjects, and they brought into the condition they are at this time in open warre against him, wherein, lest they should relent, they are made beleeve it is for the safety, and defence of His Person; the most absurd gullery that ever was put upon a Nation.</p>
+            <p>And as the <hi>KING</hi> did not alone dislike these injuries done to God and Himselfe, so neither alone does Hee suffer; for with him most of the most Learned, and judicious Members of both Houses, whose Noblenesse, Honour, Vertues, Piety, Religion, and cleare understandings, made them declare themselves averse to the present course of the times, have beene either im<g ref="char:EOLhyphen"/>prisoned or stigmatized with the brand of Traytors, and Papists, or at the least malignants, and Prelatists: these and such like have beene all the Priviledges of Parliaments allowed the Wor<g ref="char:EOLhyphen"/>thies of our times, and worse is hatching for them if the Di<g ref="char:EOLhyphen"/>vine providence preserve them not.</p>
+            <p>Are our ancient Lawes in any better condition, or seeme they not as dead as their prudent contrivers? do not new borne Votes supply their roome, and new borne miseries attend them? the <hi>KING,</hi> his Wife, and Children, voted &amp; forcibly kept out of all that is due to them, wee are required to be assisting hereto; if not, we shall be voted to be plundered, &amp; our goods and estates
+<pb n="4" facs="tcp:211669:4"/>sequestred, and all this is pretended to be for the Liberty of the Subject: we have liberty indeed to give, but no liberty to deny: and we must give not as we know we are able, but as they think fit, and this they have the impudence to publish.</p>
+            <p>These things being taken into our serious consideration, and the times now requiring us to declare our selves, since we can no longer be at peace: first condoling the generall calamity of our selves, and Ireland, we professe to all the world, that we cannot see or find any other lawfull way to free us from the distresses we are in, then by our best assistance of His Sacred Majestie, a<g ref="char:EOLhyphen"/>gainst all that shall oppose Him in an assured confidence that His purpose is as He hath declared, and no other, than to maintaine and establish the Protestant Religion, as it hath beene in au<g ref="char:EOLhyphen"/>thority &amp; use in this Kingdome ever since <hi>Edward</hi> the sixth, &amp; likewise His own just and true prerogative, and inheritance, derived unto Him from His Ancestours Kings, and Queens of England, and also the rights and priviledges of Parliaments, that have beene alway justly due to them; to whom we conceive His Majesty ought especially to hearken, as hath beene the cu<g ref="char:EOLhyphen"/>stome of his Royall Predecessours, they seeking in all humility His assent to their debates and resolutions, by reason, not by force; and also the ancient Lawes of this Kigndome, and all other Acts of Parliament, ratified by the Kings consent. And lastly, the Liberty and Property of the Subject: Hereto we hold our selves bound by Conscience and vow to God, Loyal<g ref="char:EOLhyphen"/>ty to our King, and duty to our Country: and so God prosper us as wee shall be assisting to His Majestie in the accomplish<g ref="char:EOLhyphen"/>ment of all this.</p>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:211669:4"/>
+            <head>A Declaration of the Resolution of the County of HEREFORD.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kingdome for many yeares past hath groaned under many taxes of Loane, Ship-money, and the like dismall effects of an arbitrary Govern<g ref="char:EOLhyphen"/>ment, and an high stretcht prerogative: for the cure of which distemper a Parliament was beleeved by all men to be the onely good old way of Physicke, to cleanse the body poli<g ref="char:EOLhyphen"/>tique from oppressing crudities (which was heartily desired) but not by over-strong purgatives to weaken it in the princi<g ref="char:EOLhyphen"/>pall parts, causing it to receive a disposition to the like distem<g ref="char:EOLhyphen"/>per, or a relapse into the same, or a worse disease; which in stead of restoring it to its primitive vigour and health, must needs drive it to a fatall period. Such is our misery, such the just judgement of God upon our sinnes: this wholesome and approved Physicke hath not wrought in us that blessed effect, as was either beleeved by some, or hoped for by all men. But as if God had answer'd our importunity for a Parliament, as he did of old the <hi>Israelites</hi> for a King, in his anger; we drive on with more haste then good speed to the other extreame, which por<g ref="char:EOLhyphen"/>tends no lesse symptomes of ruine and destruction, then the for<g ref="char:EOLhyphen"/>mer. So that having maturely considered what hath proved destructive to this and other Parliaments, we may the more easi<g ref="char:EOLhyphen"/>ly avoid those Rocks upon which others have split themselves: <hi>viz.</hi>
+            </p>
+            <p n="1">1. The venting of particular ends of Avarice and Ambition in the publique State.</p>
+            <p n="2">2. Private Combinations and Chamber-conventicles, to re<g ref="char:EOLhyphen"/>solve before hand what shall be done in the house.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:211669:5"/> 3. Hindering the freedome of speech by imprisonment of the persons.</p>
+            <p n="4">4. Denying informations by the humble way of Petitions from the Countries; as that most excellent and orthodox Peti<g ref="char:EOLhyphen"/>tion of our brethren of <hi>Kent:</hi> of rejecting information by let<g ref="char:EOLhyphen"/>ters to our Knights and Burgesses.</p>
+            <p n="5">5. The ready swallowing of informations and jealous ru<g ref="char:EOLhyphen"/>mours against His Majestie, by styling them malignant enemies to the State, which were onely truly, and conscionably His friends.</p>
+            <p n="6">6. Private, if not publique encouragement of the mutinous Rable, which ill spirit was ready at all times to be raised by a whisper by any of those worthy members emphatically so cal<g ref="char:EOLhyphen"/>led, if not exclusively; as if all Justice, Reformation, and Go<g ref="char:EOLhyphen"/>vernment were onely to be expected from them.</p>
+            <p n="7">7. The new and unheard of State-Law, and Logick, to style and believe that a Parliament which is divided in it selfe; which is severed from the King the Head thereof.</p>
+            <p>If these things may be remedied, (as we hope they are not all past cure) we shall desire rather to change some of our Phy<g ref="char:EOLhyphen"/>sitians, then our Physick; there being no better way, nor more necessary to preserve or restore the health of a Common<g ref="char:EOLhyphen"/>wealth, then a well-temper'd Parliament: Wherefore we, as faithfull subjects to His Majestie, as free-borne <hi>English-men,</hi> do joyne in an unanimous resolution to maintaine
+<list>
+                  <item>1. The Protestant Religion:</item>
+                  <item>2. The Kings just Power:</item>
+                  <item>3. The Lawes of the Land:</item>
+                  <item>4. The Liberties of the Subject.</item>
+               </list>
+            </p>
+            <p>For the first, <hi>The Protestant Religion,</hi> wee cannot but with griefe of heart remember how it hath beene assaulted in the out-workes and skirts of it, the Liturgie and decent Ceremonies established by Law; yea, in the very body of it, the 39 Ar<g ref="char:EOLhyphen"/>ticles.</p>
+            <p>In what danger the Church of <hi>England</hi> hath beene to be o<g ref="char:EOLhyphen"/>ver-runne with Brownisme, and Anabaptisme, let all the world judge.</p>
+            <pb n="7" facs="tcp:211669:5"/>
+            <p> For the second, <hi>The just Power of the King;</hi> God knowes, he hath beene so farre unable to defend that from violation, as it was Gods great goodnesse rather than His owne power, which secured, or rather rescued His Person from violence: And what their aime was, who to please the vulgar Rabble, would uphold them in, or not punish them for those high insolencies, as we feare to imagine for the present, so we cannot but with horrour and amazement doubt the consequence: Nor can we conceale our joy of heart, or thanks to His Majesties good Sub<g ref="char:EOLhyphen"/>jects of the County of <hi>Yorke,</hi> for endeavouring to secure His Person with a Guard, (being of more value than many thou<g ref="char:EOLhyphen"/>sands) and putting him into a posture of defence, which some have either ignorantly or malitiously interpreted, an intention of warre against the Parliament; whereas it is plaine enough, his desires are onely to secure himselfe and his servants from those prodigious tumults and disorders, which have endange<g ref="char:EOLhyphen"/>red his sacred Person: Nor can we blame him, considering Sir <hi>John Hothams</hi> act at <hi>Hull,</hi> and Sir <hi>Henry Ludlowe's</hi> Speech in Parliament, with M<seg rend="sup">r</seg>
+               <hi>Martine's.</hi>
+            </p>
+            <p>For the two last, <hi>The Lawes of the Land,</hi> and <hi>The Liberties of the Subject,</hi> which must not be separated; how have they beene violated also by some of those who were chosen to be the conservators of them? as imprisonments of the persons, con<g ref="char:EOLhyphen"/>trary to the Petitions of Right; sessing the Clergy, without a body of their owne, contrary to <hi>Magna Charta;</hi> shuffling the Convocation into a Synod, or an Assembly, or Conventicle, without the choyce, consent, or election of the Clergy, as if they were neither the Kings Subjects, nor Gods Servants.</p>
+            <p>As we conceive our selves obliged by the Lawes of God, by the Law of the Land, and by the dictate of nature and reason, to maintaine all these; so by Gods grace assisting us, we hope we shall not be terrified to yeild any active obedience to any dis<g ref="char:EOLhyphen"/>joynted part of a Parliament, without the consent of the whole; (which we heartily desire may be united) or to any uncertaine Debates, Votes, or Ordinances, which are not digested and set<g ref="char:EOLhyphen"/>led into a Law; nay, which seemes to contradict former Lawes tendred unto us with so much earnestnesse, as some dare hardly
+<pb n="8" facs="tcp:211669:6"/>deny with safety. Now we cannot obey with conscience, nor shall we yeeld our selves such slaves, or betray the liberty pur<g ref="char:EOLhyphen"/>chased with our fore-fathers bloud, and bequeathed unto us, as to suffer our selves to be swayed by any Arbitrary government whatsoever; or strive with so much contention of spirit to cast off the yoke of one Tyranny, to induce many worse: Seeing his Majestie is graciously pleased to maintaine
+<list>
+                  <item>1. The Protestant Religion:</item>
+                  <item>2. His owne just Power:</item>
+                  <item>3. The Lawes of the Land:</item>
+                  <item>4. The Liberties of the Subject.</item>
+               </list>
+            </p>
+            <p>And that these waters of Reformation having beene long stirr'd, we want onely the favour of His Princely Majestie, as our good Angell, to let us in and heale us; for we doe recipro<g ref="char:EOLhyphen"/>cally declare, that we conceive our selves bound to maintaine Him in all the premises with our lives and fortunes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
